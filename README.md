@@ -124,9 +124,10 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 
   <br>
 
-Outside of [GitHub](https://github.com/JOSBEAK/), You can **find me. Currently I'm **free to contribute**
+Outside of [GitHub](https://github.com/JOSBEAK/), 
+<br> **find me here***
 [![Twitter: Anurag](https://img.shields.io/twitter/follow/drecothea?style=social)](https://twitter.com/drecothea)
 [![Linkedin: Anurag Pandey](https://img.shields.io/badge/-Anurag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://t.co/gaKs2lyZgW?amp=1)](https://t.co/gaKs2lyZgW?amp=1)
 [![GitHub Anurag](https://img.shields.io/github/followers/JOSBEAK?label=follow&style=social)](https://github.com/JOSBEAK)
-
+***Currently I'm free to contribute***  🛠️ 🖱️</br>
 ### Show some ❤️ by starring some of the repositories!
