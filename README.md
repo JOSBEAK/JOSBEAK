@@ -76,6 +76,8 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)&nbsp;
 ![Elmentary os](https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white)&nbsp;
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)&nbsp;
+![CentOs](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)&nbsp;
+![Deepin](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)&nbsp;
 
 
 ### 🖊️ Text Editors used
