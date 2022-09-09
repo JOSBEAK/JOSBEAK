@@ -7,11 +7,8 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 
 **About me**
 
-- 🥉 I’m currently a pre-final year B.Tech CSE Undergrad.
-- ⛓️ I’m currently learning Blockchain and Web-dev.
-- 🤙 I’m looking to collaborate on Open Source Projects.
-- 🔥 I'm really interested in exploring different kind of Operating Systems.
-- 🖥️ I've a live interest in Cybersecurity and networking as well.
+- 🦀 Rustacean
+- 🔥 Loves Exploring Operating Systems.
 - 🍾 Always open for discussion.
 - 👤 How to reach me: [Twitter - @drecothea](https://twitter.com/drecothea)
 
