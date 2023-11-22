@@ -96,14 +96,14 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 #### Top Repositories
 
 
-<a href="https://github.com/JOSBEAK/NVIM_CONFIGURATION">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JOSBEAK&repo=NVIM_CONFIGURATION&theme=cobalt" />
+<a href="https://github.com/JOSBEAK/Books">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JOSBEAK&repo=Books&theme=cobalt" />
 </a>
 <a href="https://github.com/Luffy-Nikhil/resume-builder-web-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luffy-Nikhil&repo=resume-builder-web-app&theme=cobalt" />
 </a>
-<a href="https://github.com/JOSBEAK/HangMan-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JOSBEAK&repo=HangMan-Project&theme=cobalt" />
+<a href="https://github.com/JOSBEAK/unsplash_pics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JOSBEAK&repo=unsplash_pics&theme=cobalt" />
 </a>
 
 <br />
