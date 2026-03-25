@@ -7,7 +7,7 @@ I'm a self-taught Programmer & developer from India 🇮🇳
 
 **About me**
 
-- 🧑🏻‍💻 React Dev
+- 🧑🏻‍💻 Backend Dev
 - 🔥 Loves Exploring Operating Systems.
 - 🍾 Always open for discussion.
 - 👤 How to reach me: [Twitter - @drecothea](https://twitter.com/drecothea)
